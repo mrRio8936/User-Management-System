@@ -19,5 +19,20 @@ The **User Management System** is a web application that allows administrators t
 ## Installation
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/mrRio8936/User-Management-System.git
+
+## Navigate to the project directory:
+- **cd User-Management-System
+
+## Install dependencies:
+** npm install
+
+## Set up environment variables (e.g., database URI, JWT secret) in a .env file.
+
+## Start the server:
+** npm start
+
+## Usage
+- **Open the application in your browser at http://localhost:3000 after starting the server.
+- **Register a new account or log in with an existing account.
+- **Access and manage user profiles and settings.
